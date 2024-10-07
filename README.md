@@ -1,1 +1,3 @@
-"Jack Eyink" 
+Jack Eyink
+eyinkj@oregonstate.edu 
+
